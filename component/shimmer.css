@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.size{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    margin: 2rem auto;
+    padding: 0.5rem;
+}
+
+.box{
+    background: rgb(203, 197, 197);
+    width: 10rem;
+    height: 12rem;
+    margin: 0.6rem auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
